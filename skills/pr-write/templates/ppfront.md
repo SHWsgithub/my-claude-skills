@@ -5,7 +5,7 @@
 - 짝 PR (어드민): <URL>
 - 백엔드 짝 브랜치: [ppback `<branch>`](https://github.com/hcgtheplus/ppback/tree/<branch>) (PR 미생성)
 
-## 차이점
+## 차이점 (diff만으로 안 보이는 대비가 있을 때만 — 없으면 섹션째 생략)
 - <Before → After 변화>
 - <구조/공용 컴포넌트 변화>
 
